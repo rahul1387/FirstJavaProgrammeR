@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(ST[] args) {
         // write your code here
         System.out.print("The Sum of these Numbers is: ");
 

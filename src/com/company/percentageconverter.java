@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class percentageconverter {
-    public static void main(String[] args) {
+    public static void main(ST[] args) {
         Scanner scanner= new Scanner(System.in);
         int Science;
         int Maths;

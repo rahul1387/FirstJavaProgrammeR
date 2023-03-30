@@ -1,7 +1,7 @@
 package com.company;
 
 public class Operators {
-    public static void main(String[] args) {
+    public static void main(ST[] args) {
         //1.Arithmetic Operators---> canot be with boolean
         int a = 4;
         //2.Module Operator

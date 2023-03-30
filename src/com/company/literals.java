@@ -1,7 +1,7 @@
 package com.company;
 
 public class literals {
-    public static void main (String[] arge){
+    public static void main (ST[] arge){
         byte age=43;
         int age2=56;
         short age3=87;

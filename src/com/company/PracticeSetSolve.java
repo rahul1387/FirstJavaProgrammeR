@@ -1,11 +1,7 @@
 package com.company;
 
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
-import java.util.Scanner;
-
 public class PracticeSetSolve {
-    public static void main(String[] args) {
+    public static void main(ST[] args) {
 
 //            int a=4;
 //            int b=3;

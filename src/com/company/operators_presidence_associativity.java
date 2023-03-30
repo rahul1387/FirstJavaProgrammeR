@@ -1,7 +1,7 @@
 package com.company;
 
 public class operators_presidence_associativity {
-    public static void main(String[] args) {
+    public static void main(ST[] args) {
         //Presidence
 //        Highest Presedence goes to * and /.they are then evaluated on the basis of
 //        Left to Right associativity

@@ -1,8 +1,7 @@
 package com.company;
-
 import java.util.Scanner;
 public class Calcutate_Age {
-    public static void main(String[] args) {
+    public static void main(ST[] args) {
 
         Scanner input = new Scanner(System.in);
 
