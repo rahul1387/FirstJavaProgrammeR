@@ -4,6 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class RPSGame {
+
     public static void main(String[] args) {
         //0 for Rock
         //1 for Paper
@@ -20,16 +21,28 @@ public class RPSGame {
 
             if (UserInput == computerInput) {
                 System.out.println("Draw");
-            } else if (UserInput == 0 && computerInput == 2 || UserInput == 1 && computerInput == 0
+            }
+            else if (UserInput == 0 && computerInput == 2 || UserInput == 1 && computerInput == 0
                     || UserInput == 2 && computerInput == 1) {
                 System.out.println("You Win!");
-            } else {
+            }
+            else {
                 System.out.println("Computer Win!");
             }
-            System.out.println("Computer Choice: " + computerInput);
-            System.out.println("Do You Want to Play Again if yes(press 1) to exit (press 0):");
-            shouldExist = sc.nextInt();
-
+            if (computerInput == 0)
+            {
+                System.out.println("Computer choice is: Rock");
+            }
+            else if (computerInput == 1)
+            {
+                System.out.println("Computer choice is: Paper");
+            }
+            else if (computerInput == 2)
+            {
+                System.out.println("Computer choice is: Scissor");
+            }
+            System.out.println("Do you want to play again IF yes(press 1) IF no (press 0) ");
+            shouldExist= sc.nextInt();
         }
     }
 
