@@ -61,8 +61,6 @@ public class Resulting_Data_Type {
 
     }
 
-
-
     }
 
 

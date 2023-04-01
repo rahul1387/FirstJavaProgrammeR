@@ -50,9 +50,5 @@ public class String_Method {
         System.out.println("She Said \"Hello!!\" To Me");
         System.out.println("I Replied Her \"Get Lost Dumb!!\"");
 
-
-
-
-
     }
 }
