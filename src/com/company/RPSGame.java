@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class RPSGame {
 
     public static void main(String[] args) {
+
         //0 for Rock
         //1 for Paper
         //2 for Scissor
