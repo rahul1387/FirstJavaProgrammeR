@@ -1,6 +1,6 @@
 package com.company;
 
-public class MultiDimentionalArrays {
+public class MultiDimensionalArrays {
     public static void main(String[] args) {
         // int [] marks; // 1-D Array
         int[][] flats; // 2-D Array

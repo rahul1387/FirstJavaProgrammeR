@@ -2,7 +2,8 @@ package com.company;
 import java.util.Scanner;
 
 public class Resulting_Data_Type {
-    public static void main(ST[] args) {
+    public static void main(String[] args) {
+
 
         int a =4;
 //         float b=5.4f;
@@ -62,6 +63,4 @@ public class Resulting_Data_Type {
     }
 
     }
-
-
 
